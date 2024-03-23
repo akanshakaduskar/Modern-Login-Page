@@ -1,4 +1,4 @@
-Modern Login Page
+<h1>Modern Login Page</h1>
 This is a simple and modern login page built using HTML, CSS, and JavaScript. It features a clean and minimalist design, with options to sign up or sign in using email or social media accounts.
 
 ![snap_sign in](https://github.com/akanshakaduskar/Modern-Login-Page/assets/156501496/6e678f7d-eae4-4e3a-a6cb-b43ae4a6cffc)
